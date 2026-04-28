@@ -1,0 +1,149 @@
+FitED Non-Commercial Software License
+Version v1.0
+
+Copyright (c) 2026 Mustafa Mahmoud Ibrahim Aboulsaad
+All rights reserved.
+
+1. Software
+
+This license applies to the software titled “FitED”, including its source code, executable packages, documentation, examples, citation files, and related materials distributed by the author.
+
+2. Nature of the License
+
+FitED is source-available, non-commercial software.
+
+FitED may be used, copied, redistributed, modified, and shared for non-commercial purposes only, subject to the terms of this license.
+
+FitED is not open-source software as defined by the Open Source Initiative, because commercial use is restricted.
+
+Commercial use requires prior written permission from the author.
+
+3. Grant of Permission
+
+Subject to the terms of this license, permission is granted to:
+
+- download, install, and run FitED;
+- copy FitED;
+- redistribute FitED in original or modified form;
+- modify, adapt, improve, or build upon FitED;
+- create derivative works based on FitED;
+- share modified versions of FitED;
+- use FitED for academic research, personal research, education, teaching, training, thesis work, dissertation work, and other non-commercial purposes.
+
+These permissions apply only to non-commercial use.
+
+4. Non-Commercial Restriction
+
+FitED may not be used, in whole or in part, for commercial purposes without prior written permission from the author.
+
+Commercial purposes include, but are not limited to:
+
+- use in connection with a paid service, commercial product, or commercial consultancy;
+- use by or for a for-profit entity for commercial advantage;
+- incorporation into commercial software, workflows, platforms, or services;
+- use in revenue-generating research, development, testing, or production activities;
+- sale, licensing, sublicensing, leasing, rental, or other monetized distribution of FitED;
+- use to provide paid analysis, fitting, data-processing, plotting, reporting, or consulting services to third parties;
+- use in commercial laboratories, commercial R&D, industrial product development, or paid contract research.
+
+Any commercial use requires prior written permission from the author.
+
+5. Redistribution
+
+You may redistribute FitED, in original or modified form, only for non-commercial purposes.
+
+Any redistribution must include:
+
+- this license file;
+- the original copyright notice;
+- the software name “FitED”;
+- attribution to the author;
+- citation information where reasonably practicable.
+
+You may not remove or alter copyright notices, license notices, citation files, or author attribution.
+
+Redistribution for commercial purposes is prohibited without prior written permission from the author.
+
+6. Modification and Derivative Works
+
+You may modify FitED and create derivative works based on FitED for non-commercial purposes.
+
+If you distribute a modified version, you must:
+
+- clearly state that the version has been modified;
+- identify yourself or your organization as the modifier;
+- not imply that the modified version is the official version of FitED unless authorized by the author;
+- retain the original copyright notice and license;
+- distribute the modified version under this same license or under terms that are no less restrictive regarding commercial use.
+
+Modified versions may not be used or distributed for commercial purposes without prior written permission from the author.
+
+7. No Trademark or Endorsement Rights
+
+This license does not grant permission to use the author’s name, institutional affiliation, software name, logos, trademarks, or project identity to imply endorsement of modified versions, derived software, products, services, or publications.
+
+8. Third-Party Components
+
+This license applies only to the parts of FitED owned by the author.
+
+If FitED includes, depends on, or is distributed with third-party libraries, packages, or components, those third-party materials remain governed by their own separate licenses.
+
+Nothing in this license modifies or replaces the license terms of any third-party software.
+
+9. Citation Requirement for Academic Use
+
+If you use FitED in academic research, publications, presentations, reports, theses, dissertations, or other scholarly outputs, you must cite the software where reasonably practicable.
+
+Recommended citation:
+
+Aboulsaad, M. M. FitED. Zenodo.
+DOI: 10.5281/zenodo.19411621
+
+Software title: FitED
+Author: Mustafa Mahmoud Ibrahim Aboulsaad
+Software DOI: 10.5281/zenodo.19411621
+
+10. Ownership
+
+FitED is licensed, not sold.
+
+All intellectual property rights, title, and interest in FitED remain with Mustafa Mahmoud Ibrahim Aboulsaad.
+
+No ownership rights are transferred under this license.
+
+11. No Warranty
+
+FitED is provided “as is” and “as available”, without warranty of any kind, express or implied.
+
+The author makes no warranties, including but not limited to warranties of merchantability, fitness for a particular purpose, accuracy, reliability, non-infringement, compatibility, or uninterrupted operation.
+
+12. Limitation of Liability
+
+To the fullest extent permitted by applicable law, the author shall not be liable for any claims, damages, losses, liabilities, costs, or expenses arising from or relating to the use of, inability to use, modification, redistribution, or performance of FitED.
+
+This includes, but is not limited to, direct, indirect, incidental, consequential, special, exemplary, or punitive damages; loss of data; loss of research results; incorrect analysis; incorrect fitting results; publication errors; or business interruption.
+
+13. User Responsibility
+
+Users are solely responsible for validating all fitting results, exported outputs, calculations, plots, parameters, and interpretations produced using FitED or modified versions of FitED.
+
+Users are also responsible for determining whether FitED is suitable for their intended scientific, technical, educational, or other use.
+
+14. Termination
+
+This license terminates automatically if you fail to comply with any term of this license.
+
+Upon termination, you must immediately stop using FitED and destroy all copies of the software in your possession or control, unless retention is required by applicable law or institutional archiving rules.
+
+15. Governing Law and Severability
+
+This license shall be interpreted in accordance with the laws of Sweden, unless mandatory applicable law requires otherwise.
+
+If any provision of this license is found to be invalid or unenforceable, the remaining provisions shall remain in effect to the maximum extent permitted by law.
+
+16. Contact
+
+For permissions, licensing questions, commercial use inquiries, or requests for commercial licensing, please contact:
+
+Mustafa Mahmoud Ibrahim Aboulsaad
+Email: mustafa.aboulsaad@outlook.com
