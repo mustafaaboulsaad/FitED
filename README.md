@@ -85,6 +85,7 @@ FitED can export:
 | **SG poly** | Polynomial order used in Savitzky-Golay smoothing |
 | **Weights** | Weighting scheme applied during fitting |
 | **Auto-fit trial** | Number of iterations used for the automatic pre-fit level |
+| **Auto-fit criterion** | It allows the user to select the desired criteria used for fitting among four different criterions; AIC, BIC, chi-square, or reduced chi-square |
 | **Kind** | Peak line-shape model: Gaussian, Lorentzian, Pseudo-Voigt, Exact Voigt, or Custom |
 | **Profile** | User-defined custom profile when Custom is selected |
 | **Center** | Peak position |
