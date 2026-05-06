@@ -44,6 +44,8 @@ FitED allows the user to:
   - Initial automatic fitting
   - Fitting with added peaks
   - Manual fitting
+- Selection of different fitting criterions
+- Peak dragging
 - Result export in multiple formats
 - Session save and load support
 - ZIP export of fitting outputs for easy sharing and archiving
