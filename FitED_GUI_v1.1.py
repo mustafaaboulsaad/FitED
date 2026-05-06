@@ -22,7 +22,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from matplotlib.figure import Figure
 import copy
 
-from pl_fitting_backend_step16_aic import (
+from FitED_Backend_v1.1 import (
     BUILTIN_PEAK_KINDS,
     FIT_SELECTION_CRITERIA,
     load_spectrum,
