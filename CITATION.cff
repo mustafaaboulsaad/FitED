@@ -1,12 +1,12 @@
-cff-version: 1.2.0
+cff-version: 1.3.0
 message: "If you use FitED in academic work, please cite it as below."
 title: "FitED"
 type: software
 authors:
   - family-names: "Aboulsaad"
     given-names: "Mustafa Mahmoud Ibrahim"
-doi: "10.5281/zenodo.19411621"
+doi: "10.5281/zenodo.19411620"
 date-released: "2026"
-version: "1.0"
-url: "https://doi.org/10.5281/zenodo.19411621"
+version: "1.3"
+url: "https://doi.org/10.5281/zenodo.19411620"
 license: "LicenseRef-FitED-NonCommercial"
