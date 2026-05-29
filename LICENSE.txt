@@ -1,5 +1,5 @@
 FitED Non-Commercial Software License
-Version v1.0
+Version v1.3
 
 Copyright (c) 2026 Mustafa Mahmoud Ibrahim Aboulsaad
 All rights reserved.
@@ -94,14 +94,11 @@ Nothing in this license modifies or replaces the license terms of any third-part
 
 If you use FitED in academic research, publications, presentations, reports, theses, dissertations, or other scholarly outputs, you must cite the software where reasonably practicable.
 
-Recommended citation:
-
-Aboulsaad, M. M. FitED. Zenodo.
-DOI: 10.5281/zenodo.19411621
+Recommended citation: Aboulsaad, M. M. I. (2026). FitED. Zenodo. https://doi.org/10.5281/zenodo.19411620
 
 Software title: FitED
 Author: Mustafa Mahmoud Ibrahim Aboulsaad
-Software DOI: 10.5281/zenodo.19411621
+Software DOI: 10.5281/zenodo.19411620
 
 10. Ownership
 
