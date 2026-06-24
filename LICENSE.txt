@@ -1,5 +1,5 @@
 FitED Non-Commercial Software License
-Version v1.3
+Version v1.4
 
 Copyright (c) 2026 Mustafa Mahmoud Ibrahim Aboulsaad
 All rights reserved.
